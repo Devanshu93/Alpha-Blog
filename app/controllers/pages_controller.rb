@@ -2,7 +2,7 @@ class PagesController < ApplicationController
   def home
   end
 
-  def projects
+  def about
   end
 
 end
