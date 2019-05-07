@@ -1,6 +1,6 @@
 class SessionsController < ApplicationController
   def new
-    
+    @user = User.new
   end
 
   def create
@@ -10,8 +10,8 @@ class SessionsController < ApplicationController
       flash[:success] = "Login successful"
       redirect_to user_path(user)
     else
-      flash.now[:danger] = "There was something wrong with your login information"
-      render 'new'
+      flash[:danger] = "There was something wrong with your login information"
+      redirect_to login_path
     end
   end
 
