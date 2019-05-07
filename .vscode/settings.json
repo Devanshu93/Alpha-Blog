@@ -3,5 +3,6 @@
   "ruby.rubocop.useBundler": true,
   "ruby.rubocop.configFilePath": "C:\\Users\\devan\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\usr\\share\\rvm\\gems\\ruby-2.6.0\\gems\\rubocop-0.67.2\\config",
   "ruby.rubocop.executePath": "C:\\Users\\devan\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\usr\\share\\rvm\\gems\\ruby-2.6.0\\bin\\",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "rubocop.enable": true
 }
