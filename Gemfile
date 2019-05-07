@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
@@ -33,7 +34,6 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-will_paginate', '1.0.0'
 gem 'will_paginate', '3.1.7'
-
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

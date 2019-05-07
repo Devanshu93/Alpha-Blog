@@ -19,7 +19,6 @@ class UsersController < ApplicationController
   end
 
   def edit
-    
   end
 
   def update
@@ -47,6 +46,7 @@ class UsersController < ApplicationController
   end
 
   private
+
   def user_params
     params.require(:user).permit(:username, :email, :password)
   end
