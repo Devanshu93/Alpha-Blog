@@ -10,6 +10,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails'
+gem 'rails-controller-testing'
 gem 'rubocop-performance'
 gem 'solargraph'
 # Use Puma as the app server
