@@ -15,6 +15,9 @@ gem 'rubocop-performance'
 gem 'solargraph'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
+gem "google-cloud-storage", "~> 1.8", require: false
+gem "azure-storage", require: false
+gem "aws-sdk-s3", require: false
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
