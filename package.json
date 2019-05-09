@@ -1,5 +1,6 @@
 {
   "name": "alpha-blog",
+  "version": "1",
   "private": true,
   "dependencies": {},
   "engines": {
