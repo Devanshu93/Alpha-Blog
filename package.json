@@ -1,5 +1,9 @@
 {
   "name": "alpha-blog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "yarn": "1.15.2"
+  }
 }
+
