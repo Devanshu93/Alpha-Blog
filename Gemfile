@@ -12,6 +12,7 @@ gem 'jquery-rails'
 gem 'rails-controller-testing'
 gem 'rubocop-performance'
 gem 'solargraph'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 gem "google-cloud-storage", "~> 1.8", require: false
@@ -72,4 +73,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :production do
   gem 'pg', '~> 0.11'
+  gem 'rails_12factor'
 end
