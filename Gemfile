@@ -17,6 +17,7 @@ gem 'puma', '~> 3.11'
 gem "google-cloud-storage", "~> 1.8", require: false
 gem "azure-storage", require: false
 gem "aws-sdk-s3", require: false
+gem 'mini_magick', '~> 4.8'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
