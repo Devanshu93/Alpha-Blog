@@ -12,6 +12,7 @@ gem 'jquery-rails'
 gem 'rails-controller-testing'
 gem 'rubocop-performance'
 gem 'solargraph'
+gem 'pg'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
@@ -72,6 +73,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :production do
-  gem 'pg', '~> 0.11'
   gem 'rails_12factor'
 end

@@ -1028,7 +1028,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   mini_magick (~> 4.8)
-  pg (~> 0.11)
+  pg
   puma (~> 3.11)
   rails (~> 5.2.3)
   rails-controller-testing
