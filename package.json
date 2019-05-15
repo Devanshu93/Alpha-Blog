@@ -2,7 +2,9 @@
   "name": "alpha-blog",
   "version": "1",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
   "engines": {
     "node": "12.2.0",
     "npm": "6.9.0"
