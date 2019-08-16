@@ -1,4 +1,5 @@
 class Article < ApplicationRecord
+  default_scope { order(updated_at: :desc)}
   belongs_to :user
   has_many :article_categories
   has_many :categories, through: :article_categories
