@@ -21,13 +21,13 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-  background-image: asset-url('ruby_on_rails_cover_pic.jpg');
+  background-image: asset-url('CRpic.png');
   background-size: cover;
   height: 530px;
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-align: center;
   margin-bottom: 30px;
   letter-spacing: -1px;
@@ -103,4 +103,10 @@ footer ul li {
 
 .input_checkbox input {
   width: auto !important;
+}
+
+.home_text {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgba(2, 10, 131, 0.801);
 }
