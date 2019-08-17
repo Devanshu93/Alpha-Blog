@@ -21,15 +21,15 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-  background-image: asset-url('CRpic.png');
+  background-image: asset-url('CR.jpg');
   background-size: cover;
-  height: 530px;
+  height: 600px;
 }
 
 .jumbotron h1 {
   color: rgb(0, 0, 0);
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   letter-spacing: -1px;
   font-weight: bold;
 }
@@ -108,5 +108,5 @@ footer ul li {
 .home_text {
   font-size: 20px;
   font-weight: bold;
-  color: rgba(2, 10, 131, 0.801);
+  color: rgba(3, 9, 89, 0.995);
 }
