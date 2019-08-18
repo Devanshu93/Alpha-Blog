@@ -13,6 +13,7 @@ gem 'rails-controller-testing'
 gem 'rubocop-performance'
 gem 'solargraph'
 gem 'pg'
+gem 'yard', '>= 0.9.20'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
