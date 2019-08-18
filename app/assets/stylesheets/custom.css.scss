@@ -20,20 +20,6 @@ $navbar-default-bg: black;
   text-align: center;
 }
 
-.jumbotron {
-  background-image: asset-url('CR.jpg');
-  background-size: cover;
-  height: 600px;
-}
-
-.jumbotron h1 {
-  color: rgb(0, 0, 0);
-  text-align: center;
-  margin-bottom: 20px;
-  letter-spacing: -1px;
-  font-weight: bold;
-}
-
 .btn-xlarge {
   font-size: 1.7em;
   background-color: black;
@@ -108,5 +94,14 @@ footer ul li {
 .home_text {
   font-size: 20px;
   font-weight: bold;
-  color: rgba(255, 255, 255, 0.995);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.home_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 10px;
 }
