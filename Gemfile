@@ -14,6 +14,7 @@ gem 'rubocop-performance'
 gem 'solargraph'
 gem 'pg'
 gem 'yard', '>= 0.9.20'
+gem 'omniauth-google-oauth2'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
