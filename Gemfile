@@ -9,6 +9,7 @@ ruby '2.6.0'
 gem 'rails', '~> 5.2.3'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails'
+gem "nokogiri", ">= 1.10.4"
 gem 'rails-controller-testing'
 gem 'rubocop-performance'
 gem 'solargraph'
