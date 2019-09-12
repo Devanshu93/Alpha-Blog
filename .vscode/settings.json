@@ -5,5 +5,8 @@
   "ruby.rubocop.executePath": "C:\\Users\\devan\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\usr\\share\\rvm\\gems\\ruby-2.6.0\\bin\\",
   "editor.tabSize": 2,
   "rubocop.enable": true,
-  "python.pythonPath": "D:\\ProgramData\\Anaconda3\\python.exe"
+  "python.pythonPath": "C:\\Users\\devan\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.linting.mypyEnabled": false
 }
