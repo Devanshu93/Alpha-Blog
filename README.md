@@ -16,3 +16,6 @@ create/modify new strategy types.
 - Add profile images using Gravatar.
 
 (Ruby on Rails, HTML, CSS, Bootstrap, PostgreSQL, Git, WSL, VS Code, Linux)
+
+* Ruby version: 2.6.0
+* Rails version: 5.2.3
