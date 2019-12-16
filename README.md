@@ -1,4 +1,5 @@
 Clash Royale Blog
+
 A full stack web application for Clash Royale enthusiasts!
 Users can sign up, share and view others’ categorized gamerelated strategies in the form of reverse chronological blog posts.
 
